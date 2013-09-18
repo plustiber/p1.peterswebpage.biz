@@ -1,3 +1,15 @@
+/**************************************************
+Peter Lustiber
+CSCI E-15 Dynamic Web Applications
+Project 1
+September 17, 2013 
+**************************************************/
+
+/* Center the main heading */
 h1 {text-align:center;}
+
+/* Underline the secondary headings for emphasis */
 h2 {text-decoration:underline;}
+
+/* Justify and indent the text of the paragraphs */
 p {text-align:justify; margin-left:50px; margin-right:50px;}
